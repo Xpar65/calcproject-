@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\Debug\calcassem.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>calcassem.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>calcassem.map</FILE>
+  <FILE>calcassem.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>22</LINE></start>
+  <init><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>233</LINE></init>
+  <main><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>27</LINE></main>
+  <inputtoRAM><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>34</LINE></inputtoRAM>
+  <RAMconversion><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>54</LINE></RAMconversion>
+  <Calc><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>142</LINE></Calc>
+  <display><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>146</LINE></display>
+  <inputloop><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>40</LINE></inputloop>
+  <ReadKP><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>150</LINE></ReadKP>
+  <er><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>92</LINE></er>
+  <outloopinput><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>49</LINE></outloopinput>
+  <firstval><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>62</LINE></firstval>
+  <scantohex><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>190</LINE></scantohex>
+  <updateflag><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>101</LINE></updateflag>
+  <valsafter><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>68</LINE></valsafter>
+  <erout><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>88</LINE></erout>
+  <operator><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>82</LINE></operator>
+  <normalnumber><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>79</LINE></normalnumber>
+  <negcheck><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>113</LINE></negcheck>
+  <normalnum><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>133</LINE></normalnum>
+  <operatorfoundbutisitdoubledup><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>125</LINE></operatorfoundbutisitdoubledup>
+  <subtractcheck><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>116</LINE></subtractcheck>
+  <operatorfound><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>128</LINE></operatorfound>
+  <error1><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>130</LINE></error1>
+  <scanout><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>135</LINE></scanout>
+  <col><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>161</LINE></col>
+  <rowloop><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>170</LINE></rowloop>
+  <debounce><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>222</LINE></debounce>
+  <here1><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>180</LINE></here1>
+  <Tble><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>277</LINE></Tble>
+  <searchloop><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>199</LINE></searchloop>
+  <outloopna><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>215</LINE></outloopna>
+  <outloopfound><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>209</LINE></outloopfound>
+  <equal><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>229</LINE></equal>
+  <Delay><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>255</LINE></Delay>
+  <L1><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>262</LINE></L1>
+  <L2><FILE>G:\My Drive\RMIT\Embedded_Systems\Project\calcassem\calcassem\main.asm</FILE><LINE>267</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
